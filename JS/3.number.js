@@ -6,4 +6,4 @@ console.log(negative);
 console.log(double); 
 
 let binary = 0b1111011; // 2진수
-let octal
+    
